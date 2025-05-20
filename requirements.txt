@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydub
+loguru
+torch>=2.2.0          # CPU wheels install fine; use a CUDA build if needed
+openai-whisper
+pydantic
